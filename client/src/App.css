@@ -1,0 +1,38 @@
+html {
+  background-color: wheat;
+}
+
+html * {
+  box-sizing: inherit;
+}
+
+
+article {
+  margin: 40px 10px 10px 10px;
+  display: inline-block;
+  border-radius: 15px;
+  background-color:burlywood;
+}
+
+
+article > img {
+  background-color: white;
+  border-radius: 10px 10px 10px 10px;
+  width: 200px;
+  height: 200px;
+}
+
+article > p {
+  font-size: large;
+}
+
+article:hover {
+  box-shadow: 5px 5px 15px rgb(0,0,0,0.3);
+}
+
+.imageDetail {
+  color: blue;
+  width: 200px;
+  height: 200px;
+  border-radius: 15px;
+} 

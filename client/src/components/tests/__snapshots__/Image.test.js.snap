@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot test 1`] = `
+<div>
+  <article
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+  >
+    <img
+      src="testUrl"
+    />
+  </article>
+</div>
+`;
+
+exports[`Snapshot test 2`] = `ShallowWrapper {}`;
+
+exports[`Snapshot test 3`] = `ReactWrapper {}`;
